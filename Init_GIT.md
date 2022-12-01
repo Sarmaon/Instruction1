@@ -24,3 +24,5 @@ git config --global user.email ваша почта@example.com
 5. **git checkout master** – вернуться к актуальному состоянию и продолжить работу.
 6. **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом.
 ## 6. Полезные плагины и информация по GIT
+ * Справочник по синтаксису ```Markdown``` представлен на официально сайте ***Microsoft*** - https://learn.microsoft.com/ru-ru/contribute/markdown-reference
+ * Плагины для более приятной и удобной работы ~~GIT~~ Visual Studio Code - расположены маркет плэйсе, например как один из самых распространенных - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
