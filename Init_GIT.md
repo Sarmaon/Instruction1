@@ -1,3 +1,4 @@
+![logo](Git-Logo-1788C.png)
 # Работа с GIT
 
 ## 1. Проверка наличия установленного GIT
@@ -26,3 +27,7 @@ git config --global user.email ваша почта@example.com
 ## 6. Полезные плагины и информация по GIT
  * Справочник по синтаксису ```Markdown``` представлен на официально сайте ***Microsoft*** - https://learn.microsoft.com/ru-ru/contribute/markdown-reference
  * Плагины для более приятной и удобной работы ~~GIT~~ Visual Studio Code - расположены маркет плэйсе, например как один из самых распространенных - https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+  
+  ```Работа с картинками```
+
+  ![GIT Logo](Git-Logo-1788C.png)
